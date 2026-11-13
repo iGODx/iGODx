@@ -75,22 +75,6 @@
    ETA: quando eu ficar rico. não feche essa aba.
 ```
 
-<p><img src="./imgs/headings/stack.svg" alt="01 Arsenal" width="204" height="51"></p>
-
-<p>
-  <img src="./imgs/icons/lang-python.svg" alt="Python" title="Python" width="60" height="60"
-  ><img src="./imgs/icons/lang-typescript.svg" alt="TypeScript" title="TypeScript" width="60" height="60"
-  ><img src="./imgs/icons/lang-claude.svg" alt="Claude Code" title="Claude Code" width="60" height="60"
-  ><img src="./imgs/icons/lang-github.svg" alt="GitHub" title="GitHub" width="60" height="60">
-</p>
-
-<p><img src="./imgs/headings/social.svg" alt="02 Onde me achar" width="294" height="51"></p>
-
-<p>
-  <a href="https://github.com/iGODx"><img src="./imgs/icons/github.svg" alt="GitHub" title="GitHub" width="60" height="60"></a
-  ><a href="https://www.youtube.com/@igodx_music"><img src="./imgs/icons/youtube.svg" alt="YouTube (iGODx Music)" title="YouTube (iGODx Music)" width="60" height="60"></a>
-</p>
-
 ```text
  igodx@pc ~ % sleep
  zsh: command not found: sleep
