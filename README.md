@@ -45,7 +45,7 @@
  | (x) (-) (+)                   ~/sobre-mim.txt                               |
  |-----------------------------------------------------------------------------|
  |                                                                             |
- | Felipe. Jogo de tudo e jogo bem: MMO, RPG, FPS, o que tiver ranking.        |
+ | Felipe. Jogava de tudo e jogo bem: MMO, RPG, FPS, o que tiver ranking.        |
  | Agora,  IA e software, 18h por dia.                                         |
  |                                                                             |
  | Sendo sincero: ainda não tem nada útil aqui pra você. Tô no começo.         |
