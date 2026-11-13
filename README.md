@@ -45,8 +45,8 @@
  | (x) (-) (+)                   ~/sobre-mim.txt                               |
  |-----------------------------------------------------------------------------|
  |                                                                             |
- | Felipe. Jogava de tudo e jogo bem: MMO, RPG, FPS, o que tiver ranking.        |
- | Agora,  IA e software, 18h por dia.                                         |
+ | Felipe. Jogava de tudo e jogo bem: MMO, RPG, FPS, o que tiver ranking.      |
+ | Agora, IA e software, 18h por dia.                                          |
  |                                                                             |
  | Sendo sincero: ainda não tem nada útil aqui pra você. Tô no começo.         |
  | Mas aprendo rápido e tenho ideia sobrando, e no fim é isso que conta.       |
@@ -59,8 +59,7 @@
  '-----------------------------------------------------------------------------'
 ```
 
-
-
+```text
                   .------------------------------------------.
                   | igodx@pc ~ % claude "faz o app, sem bug" |
                   | > pensando... (3h depois)                |
